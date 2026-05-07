@@ -97,7 +97,7 @@ export function AppProvider({ children }) {
       investments, setInvestments,
       monthlyExpenses, setMonthlyExpenses,
       financialScore,
-      scoreGenerated,
+      scoreGenerated, setScoreGenerated,
       monthlySavings,
       savingsRate,
       totalAssets,
